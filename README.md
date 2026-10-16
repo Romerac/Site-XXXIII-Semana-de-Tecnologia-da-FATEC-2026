@@ -1,5 +1,7 @@
 # ESTE É UM FORK DO PROJETO OFICIAL DOS CRIADORES DO SITE DO EVENTO
-## Ele existe apenas por questões de backups futuros e para estudo próprio.
+Existe apenas por questões de backups futuros e para estudo próprio.
+
+---
 
 # 💜 SETEC 2026 — FATEC Sorocaba
 
