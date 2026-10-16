@@ -1,5 +1,5 @@
-# ESTE É UM FORK DO PROJETO OFICIAL DOS CRIADORES DO SITE DO EVENTO, apenas fiz correções pontuais, e atuei como revisionista.
-Existe apenas por questões de backups futuros e para estudo próprio.
+# ESTE É UM FORK DO PROJETO OFICIAL DOS CRIADORES DO SITE DO EVENTO, LINKS DOS CRIADORES NO FINAL DO PROJETO
+Existe apenas por questões de backups futuros e para estudo próprio. Apenas fiz correções pontuais, e atuei como revisionista.
 
 ---
 
