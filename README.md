@@ -6,7 +6,7 @@ Existe apenas por questões de backups futuros e para estudo próprio. Apenas fi
 # 💜 SETEC 2026 — FATEC Sorocaba
 
 ## 📚 Semana de Tecnologia — XXXIII SETEC
-🔗 **[Acesse o site](https://lao013.github.io/Site-SETEC/)**
+🔗 **[Acesse o site](https://romerac.github.io/Site-XXXIII-Semana-de-Tecnologia-da-FATEC-2026/)**
 
 Projeto desenvolvido para a **XXXIII Semana de Tecnologia (SETEC) da FATEC Sorocaba**, com o objetivo de disponibilizar de forma organizada e acessível a programação do evento, informações sobre palestrantes, brindes, equipe e apoiadores.
 
