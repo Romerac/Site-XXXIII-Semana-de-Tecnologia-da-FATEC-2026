@@ -81,8 +81,8 @@ O desenvolvimento do site da **XXIII SETEC 2026 — FATEC Sorocaba** foi realiza
 - **Ágatha Cristina**
 - **Júlia Ribeiro**
 - **Guilherme Lao**
-- **Alexandra Oliveira**
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aleprogit-web)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandra-oliveira-787b2b406)
+- **Alexandra Oliveira**[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aleprogit-web)[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alexandra-oliveira-787b2b406)
 - **Sofia Oliveira**
-- **Vinicius Romera (revisionista)**
+- **Vinicius Romera (revisionista)**[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/romerac)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/viniciusromerac/)
 ---
