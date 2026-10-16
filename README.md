@@ -47,8 +47,6 @@ Também foram utilizados recursos externos, como fontes e ícones, quando necess
 
 # 📂 Estrutura do Repositório:
 
-Esta é a estrutura de arquivos e diretórios do projeto hospedeiro do site da **SETEC (Semana da Tecnologia)**:
-
 ```text
 Site-XXXIII-Semana-de-Tecnologia-da-FATEC-2026/
 │       
