@@ -45,6 +45,37 @@ Também foram utilizados recursos externos, como fontes e ícones, quando necess
 
 ---
 
+# 📂 Estrutura do Repositório: Lao013/Site-SETEC
+
+Esta é a estrutura de arquivos e diretórios do projeto hospedeiro do site da **SETEC (Semana da Tecnologia)**:
+
+```text
+Site-XXXIII-Semana-de-Tecnologia-da-FATEC-2026/
+│       
+├── 📄 index.html                   # Página inicial do evento (Landing Page)
+├── 📄 .gitignore                   # Regras de arquivos e pastas ignorados pelo Git
+├── 📄 README.md                    # Documentação principal e instruções do repositório
+├── 📄 apoiadores.html              # Página com as marcas parceiras e patrocinadores
+├── 📄 equipe.html                  # Rodapé de apresentação da comissão organizadora
+├── 📄 minicursos.html              # Página com a grade, vagas e detalhes dos minicursos
+├── 📄 palestrantes.html            # Página de apresentação dos palestrantes e temas
+├── 📄 script.js                    # Lógica e interatividade global em JavaScript
+│
+├── 📁 images/                      # Repositório de mídias e recursos visuais estáticos
+│   └── 📁 palestrantes             # Fotos de perfil e avatares dos palestrantes
+│
+├── 📁 pdf/                         # Documentos, editais e resultados dos minicursos
+│
+└── 📁 styles/                      # Folhas de estilo organizadas por contexto
+   ├── 📄 style-apoiadores.css       # Estilização do layout da página de apoiadores
+   ├── 📄 style-equipe.css           # Estilização da galeria e cards da equipe
+   ├── 📄 style-index.css            # Estilização da landing page e seções principais
+   ├── 📄 style-inscricao.css        # Estilização das seções e formulários de inscrição
+   └── 📄 style-palestrante.css       # Estilização da grade e cards dos palestrantes
+```
+
+---
+
 ## 👩‍💻 Autores do Site
 
 O desenvolvimento do site da **XXIII SETEC 2026 — FATEC Sorocaba** foi realizado por:
